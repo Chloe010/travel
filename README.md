@@ -158,8 +158,7 @@
 #### 效果图（以下原创图片，侵权必究）
 ##### 首页
 ![image](https://github.com/Chloe010/travel/assets/129756356/2e89be39-fb19-4a00-8a33-b49e221d2ee3)
-![image](https://github.com/Chloe010/travel/assets/129756356/6b8f5f6c-a60a-4b0d-a2fd-39013f5c0fa4)
-![image](https://github.com/Chloe010/travel/assets/129756356/c0f1498e-4a18-44ac-8a0d-af4c7c221b1a)
+![image](https://github.com/Chloe010/travel/assets/129756356/77ce4f9b-d0ad-4374-ac5a-b8d4da9965c8)
 
 ##### 导航栏、搜索栏
 ![image](https://github.com/Chloe010/travel/assets/129756356/8e58bdcf-4dfe-4cfb-bcf8-28e3ae2229e9)
